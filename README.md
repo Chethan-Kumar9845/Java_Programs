@@ -125,7 +125,7 @@
 
 9d. deleteEmployee o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JDBC_Employee/deleteEmployee.png  
     SalaryReportS o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JDBC_Employee/SalaryReportS.png  
-    SalaryReportR o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JDBC_Employee/SalaryReportS.png
+    SalaryReportR o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JDBC_Employee/SalaryReportR.png
 
 
 
