@@ -42,6 +42,9 @@
 
 
 ## 📂 String
+2a.String_operations o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/String/String_operations.png  
+
+
 
 
 
