@@ -88,6 +88,10 @@
 
 
 ## 📂 Servlet_Programs
+   # Factorial_Caclulator
+   6a. FactorialServlet o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/Servlet_Programs/Factorial_Calculator/FactorialServlet.png
+
+   
 
 
 
