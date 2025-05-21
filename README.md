@@ -51,6 +51,14 @@
 3b.  
 1. Check_null o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/String/Check_null.png
 
+2. Count_occurences o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/String/Count_occurences.png
+
+3. reverse_String o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/String/reverse_String.png
+
+4. isPalindrome o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/String/isPalindrome.png
+
+5. removewhitespace o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/String/removewhitespace.png
+
 
 
 
