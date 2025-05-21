@@ -95,9 +95,14 @@
    6b. CookieServlet o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/Servlet_Programs/Create_Cookie/CookieServlet.png
 
    ### Prime_Check
-   6c. primeServlet.java o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/Servlet_Programs/Prime_Check/Prime_Servlet.png
+   6c. primeServlet o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/Servlet_Programs/Prime_Check/Prime_Servlet.png
 
- 
+## 📂 JSP_programs 
+  ### Cookie_Management
+  7a. SetCookie o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JSP_programs/Cookie_Management/Cookie_Management_JSP.png
+
+  ### Session_Management
+  7b. welcome,second o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JSP_programs/Session_Management_JSP/Session_Management_JSP.png
 
    
 
