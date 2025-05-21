@@ -10,5 +10,7 @@
 
 1b.  
 1.arraylist_search.java o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/ArrayList/arraylist_search.png  
+2.arraylist_remove.java o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/ArrayList/arraylist_remove.png  
+3.arraylist_sort.java o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/ArrayList/arraylist_sort.java
 
 
