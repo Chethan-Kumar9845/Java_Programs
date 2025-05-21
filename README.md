@@ -59,9 +59,9 @@
 
 5. removewhitespace o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/String/removewhitespace.png
 
-3c.   
-6. String_capitalizeWords o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/String/String_capitalizeWords.png
-
+3c.
+6. String_capitalizeWords o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/String/String_capitalizeWords.png   
+ 
 7. truncate o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/String/truncate.png 
 
 8. isNumeric_String o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/String/isNumeric_String.png
