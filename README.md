@@ -91,6 +91,10 @@
    ### Factorial_Caclulator
    6a. FactorialServlet o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/Servlet_Programs/Factorial_Calculator/FactorialServlet.png
 
+   6b. CookieServlet o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/Servlet_Programs/Create_Cookie/CookieServlet.png
+
+   6c. 
+
    
 
 
