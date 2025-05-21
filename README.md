@@ -113,7 +113,22 @@
 
   9b. mysql_startwith_D o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/Mysql/mysql_startwith_D.png
 
-  
+   ## 📂 JDBC
+8c. InsertEmployee o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JDBC_Employee/index_Insert_Employee.png  
+    Report o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JDBC_Employee/Report.png  
+
+8d. updateForm,updateEmployee o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JDBC_Employee/updateForm.png
+    Report o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JDBC_Employee/Report.png 
+
+9c. InsertEmployee o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JDBC_Employee/index_Insert_Employee.png  
+    Report o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JDBC_Employee/Report.png  
+
+9d. deleteEmployee o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JDBC_Employee/deleteEmployee.png  
+    SalaryReport
+
+
+
+   
 
 
 
