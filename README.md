@@ -98,11 +98,13 @@
    6c. primeServlet o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/Servlet_Programs/Prime_Check/Prime_Servlet.png
 
 ## 📂 JSP_programs 
+### Session_Management
+  7a. Session Managment,second o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JSP_programs/Session_Management_JSP/Session_Management_JSP.png
+  
   ### Cookie_Management
-  7a. SetCookie o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JSP_programs/Cookie_Management/Cookie_Management_JSP.png
+  7b. SetCookie o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JSP_programs/Cookie_Management/Cookie_Management_JSP.png
 
-  ### Session_Management
-  7b. welcome,second o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/JSP_programs/Session_Management_JSP/Session_Management_JSP.png
+  
 
  ## 📂 Mysql
   8a. mysql_select o/p link - https://github.com/Chethan-Kumar9845/Java_Programs/blob/main/Mysql/mysql_select.png
